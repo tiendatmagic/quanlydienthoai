@@ -30,11 +30,11 @@ Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android:
       
 <ul>
 	
-	<a href="https://github.com/tiendatmagic/ExplicitIntent">Link Phần 1</a>
+<a href="https://github.com/tiendatmagic/ExplicitIntent">Link Phần 1</a>
 	
-	<a href="https://github.com/tiendatmagic/ImplicitIntent">Link Phần 2</a>
+<a href="https://github.com/tiendatmagic/ImplicitIntent">Link Phần 2</a>
 	
-	<a href="https://github.com/tiendatmagic/SendBroadcast">Link Phần 3</a>
+<a href="https://github.com/tiendatmagic/SendBroadcast">Link Phần 3</a>
 	
 </ul>
 Lập trình cơ sở dữ liệu Android với SQLite: 
